@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204030553938",
+    "firebase_url": "https://howyoudoin-d6d9a.firebaseio.com",
+    "project_id": "howyoudoin-d6d9a",
+    "storage_bucket": "howyoudoin-d6d9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204030553938:android:fd51a0756a04704487d48b",
+        "android_client_info": {
+          "package_name": "com.dstechbuzz.howyoudoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204030553938-40off442e72c290kbe4cfgeagn4vuf6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzxzporYCmDuKZZad5TBZ-RHlQhWNcFqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204030553938-40off442e72c290kbe4cfgeagn4vuf6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
